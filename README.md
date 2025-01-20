@@ -42,6 +42,6 @@ Para verificar as resoluções das questões, copie a resolução da questão de
 
 ### Questão Dificil 1235: [Maximum Profit in Job Scheduling](https://youtu.be/VJRGrez36e8)
 
-### Questão Difícil 435: [Non-overlapping Intervals](https://youtu.be/y7eVGDXdaGQ)
+### Questão Difícil 435: [Non-overlapping Intervals](https://youtu.be/fVcP3dELS1Q)
 
 
