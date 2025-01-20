@@ -1,7 +1,7 @@
 # Greed_LeetCode_Questoes
 
 **Número da Lista**: 42<br>
-**Conteúdo da Disciplina**: Greed<br>
+**Conteúdo da Disciplina**: Algoritmos Ambiciosos <br>
 
 ## Alunos
 |Matrícula | Aluno |
@@ -15,9 +15,12 @@ Este projeto consiste em quatro códigos desenvolvidos para resolver questões e
 **Problemas**
 |Código | Título | Dificuldade |
 | -- | -- | -- |
+| [630](https://leetcode.com/problems/course-schedule-iii/description/) | Course Schedule III | Difícil |
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+- Questão 630
+
+![Print da aceitação do problema 630](./Questão_630/accepted_630.png)
 
 ## Uso 
 **Linguagem**: Python<br>
