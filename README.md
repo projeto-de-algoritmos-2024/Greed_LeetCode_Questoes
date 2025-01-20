@@ -17,6 +17,7 @@ Este projeto consiste em quatro códigos desenvolvidos para resolver questões e
 | -- | -- | -- |
 | [630](https://leetcode.com/problems/course-schedule-iii/description/) | Course Schedule III | Difícil |
 | [1235](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/) | Maximum Profit in Job Scheduling | Difícil |
+| [435](https://leetcode.com/problems/non-overlapping-intervals/description//) | Non-overlapping Intervals | Médio |
 
 ## Screenshots
 - Questão 630
@@ -24,7 +25,12 @@ Este projeto consiste em quatro códigos desenvolvidos para resolver questões e
 ![Print da aceitação do problema 630](./Questao_630/accepted_630.png)
 
 - Questão 1235
+
 ![Print da aceitação do problema 1235](./Questão_1235/accepted_1235.png)
+
+- Questão 435
+
+![Print da aceitação do problema 435](./Questao_435/accepted_435.png)
 
 ## Uso 
 **Linguagem**: Python<br>
@@ -32,6 +38,10 @@ Para verificar as resoluções das questões, copie a resolução da questão de
 
 ## Video 
 
+### Questão Difícil 630: [Course Schedule III](https://youtu.be/y7eVGDXdaGQ)
+
 ### Questão Dificil 1235: [Maximum Profit in Job Scheduling](https://youtu.be/VJRGrez36e8)
+
+### Questão Difícil 435: [Non-overlapping Intervals](https://youtu.be/y7eVGDXdaGQ)
 
 
