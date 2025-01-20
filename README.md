@@ -20,7 +20,7 @@ Este projeto consiste em quatro códigos desenvolvidos para resolver questões e
 ## Screenshots
 - Questão 630
 
-![Print da aceitação do problema 630](./Questão_630/accepted_630.png)
+![Print da aceitação do problema 630](./Questao_630/accepted_630.png)
 
 ## Uso 
 **Linguagem**: Python<br>
